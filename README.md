@@ -1,3 +1,5 @@
 # ListaExercicios-PythonBrasil
-Lista de exercícios resolvidos do site Python Brasil
-https://wiki.python.org.br/ListaDeExercicios
+**Exercícios resolvidos de Python.**
+
+Lista disponível no site do Python Brasil:
+_https://wiki.python.org.br/ListaDeExercicios_
