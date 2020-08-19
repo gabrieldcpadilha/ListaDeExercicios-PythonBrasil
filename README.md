@@ -1,4 +1,4 @@
-# ListaExercicios-PythonBrasil
+# ListaDeExercicios-PythonBrasil
 **Exercícios resolvidos de Python.**
 
 Lista disponível no site do Python Brasil:
