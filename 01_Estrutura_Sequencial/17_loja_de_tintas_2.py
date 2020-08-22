@@ -9,4 +9,5 @@ Informe ao usuário as quantidades de tinta a serem compradas e os respectivos p
     misturar latas e galões, de forma que o desperdício de tinta seja menor.
         Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
 """
+
 tamanho = float(input('Qual o tamanho (metros) da área a ser pintada? '))
