@@ -1,4 +1,4 @@
-# 6 - Faça um Programa que leia três números e mostre o maior deles.
+# Faça um Programa que leia três números e mostre o maior deles.
 
 numero_1 = float(input('Digite o 1 numero: '))
 numero_2 = float(input('Digite o 2 numero: '))

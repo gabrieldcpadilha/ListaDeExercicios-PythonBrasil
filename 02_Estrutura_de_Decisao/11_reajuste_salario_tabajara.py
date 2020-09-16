@@ -1,5 +1,4 @@
-"""
-As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores
+"""As Organizações Tabajara resolveram dar um aumento de salário aos seus colaboradores
 e lhe contraram para desenvolver o programa que calculará os reajustes.
 
 Faça um programa que recebe o salário de um colaborador e o reajuste segundo o seguinte critério,
@@ -14,6 +13,8 @@ baseado no salário atual:
     * o valor do aumento;
     * o novo salário, após o aumento.
 """
+
+
 salario = float(input('Informe o valor do salario do colaborador: '))
 
 if salario <= 280:

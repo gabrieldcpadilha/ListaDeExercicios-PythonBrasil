@@ -1,5 +1,4 @@
-"""
-Um posto está vendendo combustíveis com a seguinte tabela de descontos:
+"""Um posto está vendendo combustíveis com a seguinte tabela de descontos:
 
 Álcool:
     até 20 litros, desconto de 3% por litro

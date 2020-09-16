@@ -1,5 +1,4 @@
-"""
-Faça um Programa para um caixa eletrônico.
+"""Faça um Programa para um caixa eletrônico.
 O programa deverá perguntar ao usuário a valor do saque e depois informar quantas notas de cada valor serão fornecidas.
 As notas disponíveis serão as de 1, 5, 10, 50 e 100 reais.
 

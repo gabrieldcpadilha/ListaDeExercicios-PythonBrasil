@@ -1,4 +1,4 @@
-# 7 - Faça um Programa que leia três números e mostre o maior e o menor deles.
+# Faça um Programa que leia três números e mostre o maior e o menor deles.
 
 num1 = int(input('Informe um numero: '))
 num2 = int(input('Informe outro numero: '))

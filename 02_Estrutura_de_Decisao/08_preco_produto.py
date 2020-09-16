@@ -1,5 +1,7 @@
-# 08 - Faça um programa que pergunte o preço de três produtos e
-# informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato
+"""Faça um programa que pergunte o preço de três produtos e
+Informe qual produto você deve comprar, sabendo que a decisão é sempre pelo mais barato
+"""
+
 
 preco1 = int(input('Informe o primeiro preco: '))
 preco2 = int(input('Informe o segundo preco: '))

@@ -1,5 +1,4 @@
-"""
-Uma fruteira está vendendo frutas com a seguinte tabela de preços:
+"""Uma fruteira está vendendo frutas com a seguinte tabela de preços:
 
                         Até 5 Kg           Acima de 5 Kg
   Morango         R$ 2,50 por Kg          R$ 2,20 por Kg
