@@ -8,12 +8,10 @@ while qtd <= 0:
 soma = 0
 for n in range(0, qtd):
     num = int(input('Digite um numero: '))
-    maior = 0
-    menor = 0
-    if num > maior:
+    if 'maior' not in vars() or num > maior:
         maior = num
 
-    if num <= menor:
+    if 'menor' not in vars() or num < menor:
         menor = num
 
     soma += num
