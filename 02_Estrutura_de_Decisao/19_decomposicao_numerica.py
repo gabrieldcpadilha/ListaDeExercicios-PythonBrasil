@@ -13,17 +13,19 @@ Exemplo:
 
 numero = int(input('Informe um numero inteiro: '))
 
-centena = numero / 100
-dezena = (numero - (centena * 100)) / 10
+centena = numero // 100
+dezena = (numero - (centena * 100)) // 10
 unidade = (numero - (centena * 100) - (dezena * 10))
 
 saida = ''
 if centena > 0:
     saida = saida + str(centena)
     if centena > 1:
-        saida = saida + ' centenas '
+        saida = saida + ' centenas'
     else:
-        saida = saida + ' centena '
+        saida = saida + ' centena'
+    if dezena != 0:
+        saida = saida + ', '
 
 if dezena > 0:
     if unidade == 0 and centena != 0:
